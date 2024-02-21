@@ -8,7 +8,7 @@ Here are few project to know more about my skill
 
 [brew_crew](https://github.com/pavankumar-v/brew_crew) - customer coffee preference app ( Flutter + Firebase )
 
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumar-V&theme=gotham&show_icons=true)](https://github.com/vidhi499/github-readme-stats)
+
 Primary Skills
 
 `Ruby on Rails`, `javascript`, `React`, `Typescript`, `Figma tool`
@@ -16,3 +16,6 @@ Primary Skills
 `Node js`, `Auth0 Integration`, `API Integrations`, `MySQL`, `Databse Schema Design`,
 
 `OOP`, `Design Patterns`, `Data Structures`
+
+
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumar-V&theme=gotham&show_icons=true)](https://github.com/vidhi499/github-readme-stats)
