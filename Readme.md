@@ -4,7 +4,7 @@ I'm a Full Stack Developer and Design and Art Enthusiast
 
 Here are few project to know more about my skill
 
-[Kinet Saas Frontend](https://github.com/pavankumar-v/Student_app) - Software Management Tool ( React + auth0 + Redux + Router Dom)
+[Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Software Management Tool ( React + auth0 + Redux + Router Dom)
 
 [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
 
