@@ -1,17 +1,25 @@
-👋 Hi
+## 👋 Hello! I'm Pavan
 
-I'm a Full Stack Developer and Design and Art Enthusiast
+I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work on anything it's very Intresting and Challenging 😉.
 
-Here are few project to know more about my skill
+### About me
+- Computer Science Engineer 👨‍🎓
+- From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
+- Visual Enthusiast ( Like more Frontend stuff ) 🎨
+- Like's Explore New Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
+- Like's to teach and guide 👨‍🏫
+- Like's to be in nature 💚
 
-[Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Software Management Tool ( React + auth0 + Redux + Router Dom)
+### Projects
 
-[student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
+1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Software Management Tool ( React + auth0 + Redux + Router Dom)
 
-[brew_crew](https://github.com/pavankumar-v/brew_crew) - customer coffee preference app ( Flutter + Firebase )
+2. College Project [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
+
+I have other project which are private 😉
 
 
-Primary Skills
+<!-- Primary Skills
 
 `Ruby on Rails`, `javascript`, `React`, `Typescript`, `Figma tool`
 
@@ -20,6 +28,6 @@ Primary Skills
 `OOP`, `Design Patterns`, `Data Structures`
 
 
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumar-V&theme=gotham&show_icons=true)](https://github.com/pavankumar-v/github-readme-stats)
+<!--  [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumar-V&theme=gotham&show_icons=true)](https://github.com/pavankumar-v/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar-v&layout=compact)](https://github.com/vidhi499/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar-v&layout=compact)](https://github.com/vidhi499/github-readme-stats) -->
