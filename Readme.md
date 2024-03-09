@@ -1,18 +1,18 @@
 ## 👋 Hello! I'm Pavan
 
-I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work on anything it's very Intresting and Challenging 😉.
+I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work on anything if it's very Intresting and Challenging 😉.
 
 ### About me
-- Computer Science Engineer 👨‍🎓
 - From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
-- Visual Enthusiast ( Like more Frontend stuff ) 🎨
+- Computer Science Engineer 👨‍🎓
+- Like's UI/UX, software products 🎨
 - Like's Explore New Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
-- Like's to teach and guide 👨‍🏫
-- Like's to be in nature 💚
+- Like's to Teach and Guide 👨‍🏫
+- Like's to be in Nature 💚
 
 ### Projects
 
-1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Software Management Tool ( React + auth0 + Redux + Router Dom)
+1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Project Management Tool ( React + auth0 + Redux + Router Dom)
 
 2. College Project [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
 
