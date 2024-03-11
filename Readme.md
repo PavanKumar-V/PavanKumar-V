@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Pavan
 
-I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work on anything if it's very Intresting and Challenging 😉.
+I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work on anything if it's very Interesting and Challenging 😉.
 
 ### About me
 - From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
