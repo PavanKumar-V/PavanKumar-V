@@ -6,7 +6,7 @@ I'm a Full Stack Developer 🛠️ or Sottware Engineer 🔧 or Idk I can work o
 - From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
 - Computer Science Engineer 👨‍🎓
 - Like's UI/UX, software products 🎨
-- Like's Explore New Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
+- Like's to Explore New Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
 - Like's to Teach and Guide 👨‍🏫
 - Like's to be in Nature 💚
 
