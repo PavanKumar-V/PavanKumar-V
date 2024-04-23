@@ -10,9 +10,9 @@
 
 ### Projects
 
-1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Project Management Tool ( React (typescript) + auth0 + Redux + Router Dom)
+1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Project Management Tool ( React (typescript) + auth0 + Redux + Router Dom) Auth0
 
-2. Node Backend API for Kinet App [Kient SaaS BE](https://github.com/pavankumar-v/kinet_saas_api) - ( Node js (typescript), Express js, Postgres, Prisma, Eslint + Prettier, Husky, commitize )
+2. Node Backend API for Kinet App [Kient SaaS BE](https://github.com/pavankumar-v/kinet_saas_api) - ( Node js (typescript), Express js, Postgres, Prisma, Eslint + Prettier, Husky, JWT ,commitize )
 
 3. College Project [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
 
