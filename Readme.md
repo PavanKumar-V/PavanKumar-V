@@ -4,10 +4,9 @@
 - Full Stack Developer 🛰️
 - From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
 - Computer Science Engineer 👨‍🎓
-- Like's UI/UX, software products 🎨
-- Like's to Explore New Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
-- Like's to Teach and Guide 👨‍🏫
-- Like's to be in Nature 💚
+- Interested in UI/UX, Software Products 🎨
+- Exploring Different Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/> ( rust... )
+- Nature 💚
 
 ### Projects
 
