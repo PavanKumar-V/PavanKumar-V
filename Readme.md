@@ -22,13 +22,15 @@ I have other project which are private 😉
 
  <img src="https://emojis.slackmojis.com/emojis/images/1643514084/405/stackoverflow.png?1643514084" width="15"/> [My Stackoverflow](https://stackoverflow.com/users/15915143/pavan-kumar-v)
 
-<!-- Primary Skills
+### Tech
 
-`Ruby on Rails`, `javascript`, `React`, `Typescript`, `Figma tool`
+`React` + `Typescript`, `Node js`, `Ruby on Rails`, 
 
-`Node js`, `Auth0 Integration`, `API Integrations`, `MySQL`, `Databse Schema Design`,
+`API, Webhooks`, `DB schema Design`, `MySQL/NoSQL`, 
 
-`OOP`, `Design Patterns`, `Data Structures`
+`Authentication - OAUTH ( AUTH0 )`, `External API Integration Design`
+
+`oops! 🫣`
 
 
 <!--  [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanKumar-V&theme=gotham&show_icons=true)](https://github.com/pavankumar-v/github-readme-stats)
