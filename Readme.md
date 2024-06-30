@@ -8,7 +8,12 @@
 - Exploring Different Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/> ( rust... )
 - Nature 💚
 
-### Projects
+### My Top Projects
+1. Student Cross Platform Mobile App [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
+2. Institute Management [Node Backend for Sudent App](https://github.com/pavankumar-v/Institution_management) - ( Node js, Express js, Firebase ) 
+
+
+### All Projects
 
 1. On going Project.. [Kinet Saas Frontend](https://github.com/pavankumar-v/kinet_saas_frontend) - Project Management Tool ( React (typescript) + auth0 + Redux + Router Dom) Auth0
 
