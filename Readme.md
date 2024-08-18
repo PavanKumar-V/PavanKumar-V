@@ -5,7 +5,7 @@
 - From India 🇮🇳 <img src="https://emojis.slackmojis.com/emojis/images/1622685103/43065/india.png?1622685103" width="15" />
 - Computer Science Engineer 👨‍🎓
 - Interested in UI/UX, Software Products 🎨
-- Exploring Different Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/> ( rust... )
+- Exploring Different Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
 - Nature 💚
 
 ### My Top Projects
